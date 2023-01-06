@@ -1,6 +1,6 @@
 ##
 
-App Service can also host web apps natively on Linux for supported application stacks. It can also run custom Linux `_____` (also known as Web App for **Containers**).
+App Service can also host web apps natively on Linux for supported application stacks. It can also run custom Linux `_____` (also known as Web App for `_____`).
 
 %
 
